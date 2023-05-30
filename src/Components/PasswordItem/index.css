@@ -1,0 +1,59 @@
+.password-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px;
+  margin-right: 10px;
+  border: 1px solid #c3caea;
+  border-radius: 2px;
+}
+.website-profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #10b981;
+  height: 26px;
+  width: 26px;
+  border-radius: 50%;
+}
+.profile-name {
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: bold;
+}
+.details-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 6px;
+}
+.website {
+  color: #ffffff;
+  font-size: 11px;
+  margin-bottom: 0px;
+}
+.username {
+  color: #ffffff;
+  font-size: 11px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+.password {
+  color: #ffffff;
+  font-size: 11px;
+  margin-top: 0px;
+}
+.button {
+  background-color: transparent;
+  border: none;
+  align-items: flex-end;
+  margin-left: 10px;
+}
+.delete-image {
+  height: 15px;
+  width: 15px;
+}
+.stars {
+  height: 11px;
+  width: 90px;
+}
